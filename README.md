@@ -1,4 +1,4 @@
-# OL7CultureF
+# OpenForPrePrints
 
 My inital vision statement
 
