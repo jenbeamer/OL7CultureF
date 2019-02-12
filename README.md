@@ -2,4 +2,5 @@
 
 My inital vision statement
 
-I’m working with public school teachers in Boston to teach computational thinking and creative coding skills to public school students so that they can use and create with technology to actively shape their own futures.
+ I’m working with Faculty and students on the 7 Claremont Campuses to educate them about putting their scholarly works (PrePrints) and research into openly accessible venues rather than subscription and paid databases so that they share their work and provide the information to the communities who need access to the information, it's not locked away in a university library. 
+
